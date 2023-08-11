@@ -1,5 +1,5 @@
 import React from 'react'
-import ProfilePic from "../../../assets/ProfilePic.jpg"
+import ProfilePic from "../../../assets/ProfilePic.png"
 import "./Home.scss"
 import { motion } from 'framer-motion'
 
