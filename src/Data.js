@@ -37,13 +37,13 @@ export const bios = [
     id: 2,
     icon: <FaPhoneAlt />,
     key: "Phone",
-    value: "+91 "
+    value: "+91 6388406960"
   },
   {
     id: 3,
     icon: <FaPaperPlane />,
     key: "Email",
-    value: " "
+    value: "shubhamsingh.ss.1407@gmail.com "
   }
 ]
 
