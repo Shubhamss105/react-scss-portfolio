@@ -4,7 +4,7 @@ import resume from '../../../assets/Shubham_Resume_Aug.pdf'
 
 import { motion } from 'framer-motion';
 import { bios } from '../../../Data';
-import ProfilePic from "../../../assets/ProfilePic.jpg"
+import ProfilePic from "../../../assets/ProfilePic.png"
 const About = () => {
 
 
