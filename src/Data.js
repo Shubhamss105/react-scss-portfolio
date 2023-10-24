@@ -99,10 +99,10 @@ export const workImages = [
   {
     id: 4,
     img: work4,
-    giturl:"https://github.com/Shubhamss105/react-blog-app-mui",
-    deploy:"https://github.com/Shubhamss105/react-blog-app-muip",
+    giturl:"https://github.com/Shubhamss105/InterviewWebsiteFrontend",
+    deploy:"https://interview-insights-project.vercel.app/",
     name: "project 4",
-    category: "app"
+    category: "web"
   },
   {
     id: 5,
