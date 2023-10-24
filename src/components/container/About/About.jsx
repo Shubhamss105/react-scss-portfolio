@@ -4,7 +4,7 @@ import resume from '../../../assets/Shubham_Resume_Aug.pdf'
 
 import { motion } from 'framer-motion';
 import { bios } from '../../../Data';
-import ProfilePic from "../../../assets/ProfilePic.png"
+// import ProfilePic from "../../../assets/ProfilePic.png"
 const About = () => {
 
 
@@ -19,7 +19,7 @@ const About = () => {
       </motion.div>
 
       <div className="about_container">
-        <motion.div
+{/*         <motion.div
           initial={{ x: 0, opacity: 0 }}
           whileInView={{ x: [-250, 0], opacity: 1 }}
           transition={{ duration: 1 }}
@@ -28,7 +28,7 @@ const About = () => {
             whileHover={{ y: -48, x: -55 }}
             transition={{ duration: 0.3 }}
           />
-        </motion.div>
+        </motion.div> */}
         <motion.div className="about_right"
           initial={{ x: 0, opacity: 0 }}
           whileInView={{ x: [250, 0], opacity: 1 }}
