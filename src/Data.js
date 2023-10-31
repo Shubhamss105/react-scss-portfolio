@@ -83,27 +83,28 @@ export const workImages = [
   {
     id: 2,
     img: work2,
-    giturl:"https://github.com/Shubhamss105/student-attendance-system",
-    deploy:"https://github.com/Shubhamss105/student-attendance-system",
+    giturl:"https://github.com/Shubhamss105/KoinX-assignment",
+    deploy:"https://koinx-crypto-tax-calculator.vercel.app/",
     name: "project 2",
     category: "web"
   },
-  {
+    {
     id: 3,
     img: work3,
-    giturl:"https://github.com/Shubhamss105/react-todo-app",
-    deploy:"https://react-todo-app-ten-ashy.vercel.app/",
-    name: "project 3",
-    category: "web"
-  },
-  {
-    id: 4,
-    img: work4,
     giturl:"https://github.com/Shubhamss105/InterviewWebsiteFrontend",
     deploy:"https://interview-insights-project.vercel.app/",
     name: "project 4",
     category: "web"
   },
+  {
+    id: 4,
+    img: work4,
+    giturl:"https://github.com/Shubhamss105/react-todo-app",
+    deploy:"https://react-todo-app-ten-ashy.vercel.app/",
+    name: "project 3",
+    category: "web"
+  },
+  
   {
     id: 5,
     img: work5,
