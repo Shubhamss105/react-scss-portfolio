@@ -52,18 +52,24 @@ export const icons = [<FaHtml5 />, <FaCss3 />, <DiJavascript />,<BsFillBootstrap
 export const educations = [
   {
     id: 1,
+    year: "Apr 2024 - Aug 2024",
+    position: "Web Developer Intern",
+    company: "Astrovedha Shastra Pvt. Ltd."
+  },
+  {
+    id: 2,
     year: "2020-2024",
     position: "ABES Institute of Technology",
     company: "B.Tech (Computer Science and Engineering)"
   },
   {
-    di: 2,
+    di: 3,
     year: "2019",
     position: "R.P.M Academy",
     company: "Intermediate"
   },
   {
-    id: 3,
+    id: 4,
     year: "2017",
     position: "N.S Children Academy",
     company: "High School"
@@ -143,6 +149,6 @@ export const contacts = [
   {
     id: 3,
     icon: <FaPhoneAlt />,
-    infoText: "+91 "
+    infoText: "+91 6388406960"
   }
 ]
