@@ -1,5 +1,5 @@
 import React from 'react'
-// import ProfilePic from "../../../assets/ProfilePic.png"
+import ProfilePic from "../../../assets/ProfilePic.png"
 import "./Home.scss"
 import { motion } from 'framer-motion'
 
@@ -30,7 +30,7 @@ const Home = () => {
       }
     >
       <div className="profile">
-{/*         <img src={ProfilePic} alt="portfolio" /> */}
+        <img src={ProfilePic} alt="portfolio" />
       </div>
       <div className="profile_text">
         <h3 className='name'>Hi, I'm <span>Shubham Singh</span> </h3>
